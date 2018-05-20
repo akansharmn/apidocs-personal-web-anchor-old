@@ -1,0 +1,11 @@
+{
+  "generator-openapi-repo": {
+    "importExistingSpec": true,
+    "importedSpec": "../VideoManager/VideoManager/VideoManagerService/bin/VideoManagerService.xml",
+    "name": "VideoManagerService",
+    "repo": "akansharmn/apidocs-personal-web-anchor-old",
+    "splitSpec": true,
+    "samples": true,
+    "installSwaggerUI": true
+  }
+}
